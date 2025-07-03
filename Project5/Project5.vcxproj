@@ -128,6 +128,7 @@
     </Link>
   </ItemDefinitionGroup>
   <ItemGroup>
+    <ClCompile Include="application.cpp" />
     <ClCompile Include="device_driver.cpp" />
     <ClCompile Include="device_driver.h" />
     <ClCompile Include="flash_memory_device.h" />
